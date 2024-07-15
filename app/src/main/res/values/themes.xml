@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppBanHang" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+
+    <style name="Theme.AppBanHang" parent="Base.Theme.AppBanHang" />
+    <style name="neumorphirmcard">
+        <item name="neumorph_cornerFamily">rounded</item>
+        <item name="neumorph_cornerSize">12dp</item>
+
+        <!-- Or if wants different radii depending on the corner. -->
+
+    </style>
+</resources>
